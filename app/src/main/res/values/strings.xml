@@ -1,0 +1,60 @@
+<resources>
+    <string name="app_name">Air Mineral</string>
+    <string name="toast">MUHAMMAD ARI_1202150087</string>
+    <string name="todo">TODO</string>
+    <string name="username">Masukan Username</string>
+    <string name="password">Masukan Password</string>
+    <string name="showPass">Tampilkan Password</string>
+    <string name="login">login</string>
+    <string name="description">Description</string>
+    <string name="judul">judul</string>
+
+
+    <array name="gambar_air">
+        <item>@drawable/ades</item>
+        <item>@drawable/aqua</item>
+        <item>@drawable/amidis</item>
+        <item>@drawable/cleo</item>
+        <item>@drawable/club</item>
+        <item>@drawable/equil</item>
+        <item>@drawable/evian</item>
+        <item>@drawable/leminerale</item>
+        <item>@drawable/nestle</item>
+        <item>@drawable/pristine</item>
+        <item>@drawable/vit</item>
+    </array>
+    <string-array name="nama_mineral">
+        <item>ades</item>
+        <item>aqua</item>
+        <item>amidis</item>
+        <item>cleo</item>
+        <item>club</item>
+        <item>equil</item>
+        <item>evian</item>
+        <item>leminerale</item>
+        <item>nestle</item>
+        <item>pristine</item>
+        <item>vit</item>
+    </string-array>
+
+    <string-array name="info_mineral">
+        <item>Disini Deskripsi Ades!</item>
+        <item>Disini Deskripsi Aqua!</item>
+        <item>Disini Deskripsi amidis!</item>
+        <item>Disini Deskripsi cleo!</item>
+        <item>Disini Deskripsi club!</item>
+        <item>Disini Deskripsi equil!</item>
+        <item>Disini Deskripsi evian!</item>
+        <item>Disini Deskripsi leminerale!</item>
+        <item>Disini Deskripsi nestle!</item>
+        <item>Disini Deskripsi pristine!</item>
+        <item>Disini Deskripsi vit!</item>
+    </string-array>
+
+
+    <string name="filler_text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas
+        vitae semper quam. In a metus ut nisl pharetra hendrerit et a leo. Curabitur nec sapien
+        odio. Vestibulum a mollis felis. Cras molestie felis nibh, ut maximus mauris feugiat
+        tincidunt. Curabitur ultricies eros sed ipsum pulvinar vehicula.</string>
+    <string name="air_mineral">Air Mineral</string>
+</resources>
